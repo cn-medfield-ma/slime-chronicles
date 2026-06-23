@@ -1,4 +1,0 @@
-# slime-chronicles
-
-
-hi
